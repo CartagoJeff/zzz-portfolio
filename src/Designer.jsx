@@ -96,14 +96,14 @@ export default function Designer() {
           <span className='hero'>V</span>
       </div>
       <div className="designer__block">
-        <img src="https://assets-global.website-files.com/65455474e0ea54684cf7da15/65455794acf91498dcaa2c56_Hero%20Image.webp" alt="#" />
+        <img src="https://scontent.fmnl13-4.fna.fbcdn.net/v/t39.30808-6/448256578_2093181031048647_3530053220970700205_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=G6ZN7VUWcVYQ7kNvgFBOLPF&_nc_zt=23&_nc_ht=scontent.fmnl13-4.fna&_nc_gid=AbaisstTqVZ8AnYuc80IOoS&oh=00_AYDF1Zc4NSwDfVDq6_AEEAm4L8eE3RL4YsTQCdkikIcC5A&oe=679BCF60" alt="#" />
           <div className="carousel-block">
             <div className="carousel">
-              <span>Noir Créatif  Noir Créatif  Noir Créatif</span>
-              <span>Noir Créatif  Noir Créatif  Noir Créatif</span>
+              <span>Turn vision into reality</span>
+              <span>Turn vision into reality</span>
             </div>
           </div>
-        <p>I specialize in creating <br />intuitive interfaces that bridge the gap <br />between aesthetics and <br />functionality.</p>
+          <p>I craft intuitive interfaces <br />that seamlessly blend <br />aesthetics with functionality,<br /> creating a perfect balance.</p>
       </div>
     </div>
 
