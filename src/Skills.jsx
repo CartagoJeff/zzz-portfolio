@@ -29,8 +29,8 @@ export default function Skills({titlePage, elem}) {
 
     
     const obj = {
-        // 'title': 'Skills',
-        'title': 'LOREM IPSUM',
+        'title': 'Skills',
+        // 'title': 'LOREM IPSUM',
         'elem': -1
     }
     

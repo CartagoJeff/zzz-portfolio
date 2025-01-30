@@ -36,8 +36,8 @@ export default function Work({titlePage, elem}) {
 
     
     const obj = {
-        // 'title': 'Works',
-        'title': 'LOREM IPSUM',
+        'title': 'Works',
+        // 'title': 'LOREM IPSUM',
         'elem': -1
     }
     

@@ -96,8 +96,8 @@ export default function Designer() {
           <span className='hero'>V</span>
       </div>
       <div className="designer__block">
-        {/* <img src="https://scontent.fmnl13-4.fna.fbcdn.net/v/t39.30808-6/448256578_2093181031048647_3530053220970700205_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=G6ZN7VUWcVYQ7kNvgFBOLPF&_nc_zt=23&_nc_ht=scontent.fmnl13-4.fna&_nc_gid=AbaisstTqVZ8AnYuc80IOoS&oh=00_AYDF1Zc4NSwDfVDq6_AEEAm4L8eE3RL4YsTQCdkikIcC5A&oe=679BCF60" alt="#" /> */}
-        <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" alt="#" />
+        <img src="https://scontent.fmnl13-4.fna.fbcdn.net/v/t39.30808-6/448256578_2093181031048647_3530053220970700205_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=G6ZN7VUWcVYQ7kNvgFBOLPF&_nc_zt=23&_nc_ht=scontent.fmnl13-4.fna&_nc_gid=AbaisstTqVZ8AnYuc80IOoS&oh=00_AYDF1Zc4NSwDfVDq6_AEEAm4L8eE3RL4YsTQCdkikIcC5A&oe=679BCF60" alt="#" />
+        {/* <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" alt="#" /> */}
         
           <div className="carousel-block">
             <div className="carousel">

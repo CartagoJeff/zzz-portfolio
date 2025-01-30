@@ -29,8 +29,8 @@ export default function Experience({titlePage, elem}) {
 
     
     const obj = {
-        // 'title': 'Experience',
-        'title': 'LOREM IPSUM',
+        'title': 'Experience',
+        // 'title': 'LOREM IPSUM',
         'elem': -1
     }
     

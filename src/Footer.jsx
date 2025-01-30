@@ -60,7 +60,7 @@ export default function Footer() {
                 <div className="circul"><a href="#"><img src="https://assets-global.website-files.com/65455474e0ea54684cf7da15/6546a1aaba58cdd4e0ee5738_Red%20Star.svg" alt="#" /></a></div>
             </div>
         </div>
-        <div className="footer__contacts">
+        <div id='contact' className="footer__contacts">
             <a href='mailto:jeffanthonycartago@gmail.com'>my email</a>
             <a href="tel:09959853107">09959853107</a>
             <a target='_blank' href='https://www.linkedin.com/in/jeff-anthony-cartago-4b171a17b/'>my linkedin</a>
