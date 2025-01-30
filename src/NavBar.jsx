@@ -19,9 +19,9 @@ export default function NavBar() {
         <div className={`navigate ${active}`}>
             <ul>
               <li><a href="#work">WORK</a></li>
-              <li><a href="#about">ABOUT</a></li>
-              <li><a href="#">INSTAGRAM</a></li>
-              <li><a href="#">CONTACT</a></li>
+              <li><a href="#exp">EXPERIENCE</a></li>
+              <li><a href="#skills">SKILLS</a></li>
+              <li><a href="#contact">CONTACT</a></li>
             </ul>
           </div>
           <div className="nav-bar">
